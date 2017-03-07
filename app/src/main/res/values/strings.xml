@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">derbyapp</string>
+    <string name="player1_prompt">Hello, player 1! What\'s your name?</string>
+    <string name="player2_prompt">Hello, player 2! What\'s your name?</string>
+    <string name="math">Math is fun!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_name_selection">NameSelectionActivity</string>
+    <string name="enter">Enter</string>
+    <string name="title_activity_player_two_name">PlayerTwoNameActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
